@@ -8,6 +8,8 @@ A modern, high-performance designer portfolio website template built with Astro.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1.14-38B2AC?logo=tailwind-css&logoColor=white)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
+<a href="https://ko-fi.com/T6T817U4KZ" target="_blank" style="display:inline-block;margin:.5rem auto 1rem;" data-astro-cid-wlrjxfd7=""><img height="44" style=" border:0px;height:44px;" src="https://storage.ko-fi.com/cdn/kofi2.png?v=6" alt="Buy Me a Coffee at ko-fi.com" data-astro-cid-wlrjxfd7=""></a>
+
 ## ✨ Features
 
 - 🚀 **Built with Astro** - Fast and lightweight static site generator
@@ -18,11 +20,10 @@ A modern, high-performance designer portfolio website template built with Astro.
 - 🎯 **Portfolio Showcase** - Elegant portfolio showcase pages
 - 🔍 **SEO Optimized** - Built-in SEO and social media tags
 - ⚡ **Performance Optimized** - Image optimization, code splitting, lazy loading
-- 🌐 **i18n Support** - Easy to extend for multi-language support
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [Astro](https://astro.build) 5.15.4 (v6 compatible)
+- **Framework**: [Astro](https://astro.build) 5.15.4 
 - **Styling**: [Tailwind CSS](https://tailwindcss.com) 4.1.14
 - **Animations**: [AOS](https://michalsnik.github.io/aos/)
 - **Physics Engine**: [Matter.js](https://brm.io/matter-js/)
@@ -148,13 +149,12 @@ Add your work information in `src/collections/works.json`.
 
 Create new MDX files in the `src/content/post/` directory. The project uses Astro v5 Content Layer API with `glob` loader for content collections, ensuring compatibility with Astro v6.
 
-**Note**: This template has been fully upgraded to Astro v5.15 standards and is compatible with Astro v6:
 - ✅ Uses new Content Layer API (`glob` loader)
 - ✅ Uses `entry.id` instead of deprecated `entry.slug`
 - ✅ Uses `render(entry)` instead of deprecated `entry.render()`
 - ✅ Uses `import.meta.env` instead of `process.env`
 - ✅ Uses `import.meta.glob()` instead of deprecated `Astro.glob()`
-- ✅ All `getStaticPaths()` params are string type (v6 requirement)
+- ✅ All `getStaticPaths()` params are string type 
 
 ## Figma Assets
 
@@ -166,7 +166,7 @@ Create new MDX files in the `src/content/post/` directory. The project uses Astr
 ## 📧 Contact
 
 - **Author**: Ricoui
-- **Blog**: [ricoui.com](https://github.com/ricocc)
+- **Blog**: [ricoui.com](https://ricoui.com)
 - **Email**: hello@ricoui.com
 - **Twitter**: [@ricouii](https://x.com/ricouii)
 - **GitHub**: [@ricocc](https://github.com/ricocc)
@@ -206,9 +206,9 @@ If you’ve found this helpful, even a small contribution can greatly encourage 
 
 ## 📝 Changelog
 
-### Latest Updates (2024)
+### Latest Updates 
 
-- **Upgraded to Astro 5.15.4** - Fully compliant with Astro v5.15 standards and compatible with Astro v6
+- **Upgraded to Astro 5.15.4** - Fully compliant with Astro v5.15 standards
 - **Content Collections Upgrade** - Using new Content Layer API, all legacy APIs removed
 - **API Modernization** - All deprecated APIs updated to latest standards
 - **Performance Optimization** - Optimized build and runtime performance
