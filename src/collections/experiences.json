@@ -1,17 +1,23 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Web & Product Designer",
-		"company": "Company Name",
-		"description": "Leading the design of user-centric web applications and dating platforms.",
-		"logo": "/assets/experiences/company.jpg"
+		"dates": "Sep 2023 · Present",
+		"role": "Technical Support Engineer",
+		"company": "Digifist",
+		"description": "Investigated and validated system behavior across production SaaS platforms, analyzed logs and API responses to identify root causes, and collaborated with developers to improve system reliability.",
+		"logo": "/assets/experiences/digifist.png"
 	},
 	{
-		"dates": "July 2016 · June 2017",
-		"role": "Web & Product Designer",
-		"company": "Company Name",
-		"description": "Spearheaded the design and development of e-commerce websites and online marketplaces.",
-		"logo": "/assets/experiences/company.jpg"
+		"dates": "July 2023 · Aug 2023",
+		"role": "Technical Support Specialist",
+		"company": "Call Center Studio",
+		"description": "Performed manual validation of system workflows and API interactions. Analyzed REST API responses, webhooks, and JSON data for correctness while working with engineering to support bug fixes.",
+		"logo": "/assets/experiences/call-center-studio.png"
+	},
+	{
+		"dates": "Sep 2022 · July 2023",
+		"role": "IT Specialist",
+		"company": "TUI Magic Life Jacaranda Hotel",
+		"description": "Maintained operational systems and supported business processes. Diagnosed and resolved system and infrastructure issues while supporting internal users and digital tools.",
+		"logo": "/assets/experiences/tui.png"
 	}
-
 ]

@@ -1,10 +1,10 @@
 const SITE_URL = import.meta.env.PUBLIC_SITE_URL || 'https://batuhanboran.com';
 
 export const siteConfig = {
-    title: "Batuhan Boran | Automation & Support Engineer",
+    title: "Batuhan Boran | AI & Automation Engineer",
     author: "Batuhan Boran",
     url: SITE_URL,
-    mail: "mail@batuhanboran.com",
+    mail: "batuhanboran32@gmail.com",
     resume: "/assets/resume.pdf", 
     utm: {
         source: `${SITE_URL}`,
@@ -12,9 +12,9 @@ export const siteConfig = {
         campaign: "navigation",
     },
     meta:{
-        title: "Batuhan Boran - Technical Support & Automation Specialist",
-        description: "Technical Support Engineer specializing in n8n workflows, Cloud Infrastructure (Hetzner/Docker), and Shopify Automation.",
-        keywords: "Technical Support Engineer, n8n Engineer, Cloud Support, Shopify Automation, Batuhan Boran, Workflow Specialist",
+        title: "Batuhan Boran - AI-driven Automation Engineer",
+        description: "AI-driven automation engineer with experience in n8n, LLM integration (Claude, ChatGPT), and SaaS platforms. Specializing in API integrations and scalable automation pipelines.",
+        keywords: "Batuhan Boran, AI Engineer, Automation Engineer, n8n, LLM, API Integration, Technical Support, SaaS, Shopify",
         image: `${SITE_URL}/og.jpg`,
         twitterHandle: "batuhanboran", 
     },

@@ -1,0 +1,22 @@
+[
+	{
+		"name": "AWS Certified Cloud Practitioner",
+		"issuer": "Amazon Web Services",
+		"logo": "/assets/certifications/aws.png"
+	},
+	{
+		"name": "Microsoft IT Support Specialist",
+		"issuer": "Microsoft",
+		"logo": "/assets/certifications/microsoft.png"
+	},
+	{
+		"name": "IBM Business Analyst Professional",
+		"issuer": "IBM",
+		"logo": "/assets/certifications/ibm.png"
+	},
+	{
+		"name": "TOEIC (B2 English)",
+		"issuer": "ETS",
+		"logo": "/assets/certifications/toeic.png"
+	}
+]
